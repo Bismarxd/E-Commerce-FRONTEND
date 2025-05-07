@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner .slick-dots {
+    bottom: 10px !important;
+}
+
+.banner .slick-next{
+    rigth: 15px !important;
+}
+
+.banner .slick-next{
+    rigth: 15px !important;
+    z-index: 100;
+}
+.scroll{
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+    scrollbar-color: #104ae9da white;
+}
